@@ -84,7 +84,7 @@ flowchart LR
 | R-04 | A single subscription Owner assignment creates privilege concentration and misuse risk | 2 | 5 | 10 | High | Accepted for lab; reduce in production |
 | R-05 | Local logs exist, but Azure alerts and centralized guest monitoring were not configured | 3 | 3 | 9 | Medium | Planned |
 
-The detailed, editable register is available in [reports/risk-register.xlsx](reports/risk-register.xlsx). The full narrative is available in [reports/cloud-security-risk-assessment.pdf](reports/cloud-security-risk-assessment.pdf).
+Open the [browser-viewable risk register PDF](reports/risk-register-viewable.pdf), or download the [editable Excel risk register](reports/risk-register.xlsx). The full narrative is available in [reports/cloud-security-risk-assessment.pdf](reports/cloud-security-risk-assessment.pdf).
 
 ## Priority findings
 
@@ -164,6 +164,7 @@ azure-cloud-grc-risk-assessment/
 └── reports/
     ├── cloud-security-risk-assessment.pdf
     ├── report-cover.png
+    ├── risk-register-viewable.pdf
     └── risk-register.xlsx
 ```
 
@@ -191,4 +192,4 @@ This personal lab assessment was authorized and non-destructive. No passwords, I
 
 ## Author
 
-**PASTEUR Ingabire** - Cybersecurity and cloud security portfolio project.
+**PASTEUR INGABIRE** - Cybersecurity and cloud security portfolio project.
