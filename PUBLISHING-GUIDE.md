@@ -1,4 +1,4 @@
-# GitHub and LinkedIn Publishing Guide
+# GitHub Publishing Guide
 
 ## GitHub repository settings
 
@@ -68,14 +68,3 @@ If Git asks for an identity before committing, configure the name and verified e
 
 4. Paste the GitHub URL near the end of the post.
 5. After publishing, add the project to the LinkedIn **Featured** section using the GitHub repository URL.
-
-## LinkedIn Featured entry
-
-**Title**
-
-`Azure Cloud Security Risk Assessment & GRC Simulation`
-
-**Description**
-
-`Evidence-based Azure security assessment featuring a professional risk register, NIST CSF 2.0 and CIS Controls v8.1 mapping, and a validated RDP exposure mitigation.`
-
