@@ -1,7 +1,7 @@
 # Cloud Security Risk Assessment Report
 
 **Project:** Cybersecurity Project: Cloud Security Risk Assessment & GRC Simulation (Azure)  
-**Assessor:** Iker Paster  
+**Assessor:** PASTEUR INGABIRE  
 **Assessment type:** Point-in-time, non-exploitative GRC simulation  
 **Environment:** Microsoft Azure personal lab  
 
